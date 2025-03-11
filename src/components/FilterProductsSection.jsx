@@ -1,6 +1,5 @@
 import { useContext } from "react";
 import { ProductList } from "../store/Product-store";
-import searchIcon from "../images/search-icon.png";
 import { FilterContext } from "../store/Filter-store";
 
 function FilterProductsSection() {
