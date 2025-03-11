@@ -4,7 +4,7 @@ This project is a React-based e-commerce platform designed to showcase electroni
 
 ## Features
 
-**Product Listing** : Displays products with options to filter by category, company and search by name.
-**Sorting Options** : Sort products by price (lowest to highest, highest to lowest) or alphabetically (a to z or z to a).
-**View Options** : Toggle between grid and list view for product display.
+**Product Listing** : Displays products with options to filter by category, company and search by name. <br>
+**Sorting Options** : Sort products by price (lowest to highest, highest to lowest) or alphabetically (a to z or z to a).<br>
+**View Options** : Toggle between grid and list view for product display.<br>
 **Static Pages**: Includes static login/signup page.
