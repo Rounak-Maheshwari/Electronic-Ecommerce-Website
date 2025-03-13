@@ -11,6 +11,6 @@ This project is a React-based e-commerce platform designed to showcase electroni
 
 ## Website Images
 
-![Home Page](./src/assets/home.png)
-![Cart Page](./src/assets/cart-page.png)
-![Products Page](./src/assets/products-page.png)
+![Home Page](./src/assets/home.png) <br>
+![Cart Page](./src/assets/cart-page.png) <br>
+![Products Page](./src/assets/products-page.png) 
